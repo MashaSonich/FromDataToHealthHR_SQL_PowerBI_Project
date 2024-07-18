@@ -8,7 +8,7 @@ The link to download the datasets: https://absentdata.com/wp-content/uploads/202
 • Develop SQL Query: SQL query with filters for healthy workers
 • Perform analysis: compensation calculation analysis with SQL, optimize SQL query and CASE statements
 • Connect a Database to SQL
-• Build a Dashboard
+• Build a Dashboard in PowerBI.
 
 
 
